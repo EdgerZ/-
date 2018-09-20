@@ -1,0 +1,6 @@
+﻿  图书管理系统.c
+d:\vs2017\2013code\projects\图书管理系统v1.1\图书管理系统\图书管理系统.c(94): warning C4087: “USERREG”: 用“void”参数列表声明
+d:\vs2017\2013code\projects\图书管理系统v1.1\图书管理系统\图书管理系统.c(179): warning C4087: “USERREG”: 用“void”参数列表声明
+d:\vs2017\2013code\projects\图书管理系统v1.1\图书管理系统\图书管理系统.c(369): warning C4047: “函数”:“user_t *”与“user_t **”的间接级别不同
+d:\vs2017\2013code\projects\图书管理系统v1.1\图书管理系统\图书管理系统.c(369): warning C4024: “REND”: 形参和实参 1 的类型不同
+  图书管理系统.vcxproj -> D:\vs2017\2013code\Projects\图书管理系统v1.1\Debug\图书管理系统.exe
